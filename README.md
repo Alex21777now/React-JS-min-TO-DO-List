@@ -1,3 +1,5 @@
+ССЫЛКА НА ПРИЛОЖЕНИЕ: https://react-js-min-to-do-list.herokuapp.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
